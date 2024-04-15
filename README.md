@@ -1,3 +1,4 @@
+Unfortunately, the free period has expired, and the Google Map API no longer works properly.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
